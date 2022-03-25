@@ -1,6 +1,26 @@
-﻿@{
+﻿@model List<ValoRats.ViewModels.Lineup>
+
+@{
     ViewData["Title"] = "LUps";
 }
 <h1>@ViewData["Title"]</h1>
 
 <p>Lineups here brah.</p>
+
+<div class="section">
+    <img src="images/Ascent-Recon-Attack-SpawntoBFake-Finish.png" />
+    <img src="Images/Ascent-Recon-Attack-SpawntoBFake-Finish.png" />
+    <img src="https://videodelivery.net/02d2b63e006c427da815da7837a0d86c/thumbnails/thumbnail.jpg?time=1s" />
+    @foreach (var Lineup in Model)
+    {
+        <div class="row">
+            @Lineup.Title
+        </div>
+        @foreach (var screenshot in Lineup.Screenshots)
+        {
+            <div class="row">
+                <img src="@screenshot.Image" />
+            </div>
+        }
+    }
+</div>

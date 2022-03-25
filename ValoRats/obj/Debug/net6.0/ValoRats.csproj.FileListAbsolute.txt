@@ -23,3 +23,4 @@ C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.dl
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ref\ValoRats.dll
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.pdb
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.genruntimeconfig.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.csproj.AssemblyReference.cache
