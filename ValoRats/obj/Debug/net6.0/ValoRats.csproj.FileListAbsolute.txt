@@ -1,3 +1,9 @@
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.AssemblyInfoInputs.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.AssemblyInfo.cs
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.csproj.CoreCompileInputs.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.RazorAssemblyInfo.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.RazorAssemblyInfo.cs
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\appsettings.json
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\ValoRats.staticwebassets.runtime.json
@@ -7,14 +13,7 @@ C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\ValoRats.ru
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\ValoRats.dll
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\ref\ValoRats.dll
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\bin\Debug\net6.0\ValoRats.pdb
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.csproj.AssemblyReference.cache
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.AssemblyInfoInputs.cache
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.AssemblyInfo.cs
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.csproj.CoreCompileInputs.cache
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.RazorAssemblyInfo.cache
-C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\ValoRats.RazorAssemblyInfo.cs
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css

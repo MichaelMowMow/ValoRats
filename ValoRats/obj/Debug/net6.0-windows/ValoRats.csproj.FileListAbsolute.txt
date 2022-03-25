@@ -1,0 +1,6 @@
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0-windows\ValoRats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0-windows\ValoRats.AssemblyInfoInputs.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0-windows\ValoRats.AssemblyInfo.cs
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0-windows\ValoRats.csproj.CoreCompileInputs.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0-windows\ValoRats.RazorAssemblyInfo.cache
+C:\Users\MCL0075\Documents\GitHub\ValoRats\ValoRats\obj\Debug\net6.0-windows\ValoRats.RazorAssemblyInfo.cs
